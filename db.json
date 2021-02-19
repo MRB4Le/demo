@@ -1,14 +1,59 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+	"type": "success",
+	"value": [{
+			"id": 1,
+			"year": 2011,
+			"team": "Natus Vincere",
+			"player": "XBOCT, ArtStyle, LighTofHeaveN, Dendi, Puppey"
+		},
+		{
+			"id": 2,
+			"year": 2012,
+			"team": "Invictus Gaming",
+			"player": "Zhou, ChuaN, Faith, Ferrari_430, YYF"
+		},
+		{
+			"id": 3,
+			"year": 2013,
+			"team": "Alliance",
+			"player": "Loda, s4, AdmiralBulldog, Akke, EGM"
+		},
+		{
+			"id": 4,
+			"year": 2014,
+			"team": "Newbee",
+			"player": "xiao8, Mu, Hao, Banana, Sansheng"
+		},
+		{
+			"id": 5,
+			"year": 2015,
+			"team": "Evil Geniuses",
+			"player": "ppd, SumaiL, UNiVeRsE, Aui_2000, Fear"
+		},
+		{
+			"id": 6,
+			"year": 2016,
+			"team": "Wings Gaming",
+			"player": "Shadow, bLink, Faith_bian, y`, iceice"
+		},
+		{
+			"id": 7,
+			"year": 2017,
+			"team": "Team Liquid",
+			"player": "MATUMBAMAN, Miracle-, MinD_ContRoL, KuroKy, GH"
+		},
+		{
+			"id": 8,
+			"year": 2018,
+			"team": "OG",
+			"player": "n0tail, JerAx, Topson, Ceb, Ana"
+		},
+		{
+			"id": 9,
+			"year": 2019,
+			"team": "OG",
+			"player": "n0tail, JerAx, Topson, Ceb, Ana"
+		}
+	]
 }
