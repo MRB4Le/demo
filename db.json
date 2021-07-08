@@ -36,7 +36,8 @@
 			"name": "Earth (C-137)",
 			"url": "https://rickandmortyapi.com/api/location/1"
 		},
-		"image": "https://liquipedia.net/commons/images/2/23/Navi_TI1_Win.jpg"
+		"image": "https://liquipedia.net/commons/images/2/23/Navi_TI1_Win.jpg",
+		"url": "https://my-json-server.typicode.com/mrb4le/demo/tichampions/1"
 	}, {
 		"id": 2,
 		"year": 2012,
