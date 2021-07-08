@@ -26,7 +26,7 @@
 	"profile": {
 		"name": "typicode"
 	},
-"tichampions": [{
+"tichampions": {
 	"results": [{
 		"id": 1,
 		"year": 2011,
@@ -79,7 +79,7 @@
 		"player": "n0tail, JerAx, Topson, Ceb, Ana"
 
 	}]
-	}],
+	},
 	"theinternational": [
         {
 			"id": 1,
