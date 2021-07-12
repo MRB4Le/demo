@@ -59,31 +59,36 @@
 			"id": 5,
 			"year": 2015,
 			"team": "Evil Geniuses",
-			"player": "ppd, SumaiL, UNiVeRsE, Aui_2000, Fear"
+			"player": "ppd, SumaiL, UNiVeRsE, Aui_2000, Fear",
+			"image": "https://pbs.twimg.com/media/CL7uPmVVAAA9svu?format=jpg&name=medium"
 		},
 		{
 			"id": 6,
 			"year": 2016,
 			"team": "Wings Gaming",
-			"player": "Shadow, bLink, Faith_bian, y`, iceice"
+			"player": "Shadow, bLink, Faith_bian, y`, iceice",
+			"image": "https://pbs.twimg.com/media/CpyjjKQUEAA20Th?format=jpg&name=medium"
 		},
 		{
 			"id": 7,
 			"year": 2017,
 			"team": "Team Liquid",
-			"player": "MATUMBAMAN, Miracle-, MinD_ContRoL, KuroKy, GH"
+			"player": "MATUMBAMAN, Miracle-, MinD_ContRoL, KuroKy, GH",
+			"image": "https://pbs.twimg.com/media/DHEk7bJUMAAfujD?format=jpg&name=medium"
 		},
 		{
 			"id": 8,
 			"year": 2018,
 			"team": "OG",
-			"player": "n0tail, JerAx, Topson, Ceb, Ana"
+			"player": "n0tail, JerAx, Topson, Ceb, Ana",
+			"image": "https://pbs.twimg.com/media/Dlfof6sU0AAm3o2?format=jpg&name=medium",
 		},
 		{
 			"id": 9,
 			"year": 2019,
 			"team": "OG",
-			"player": "n0tail, JerAx, Topson, Ceb, Ana"
+			"player": "n0tail, JerAx, Topson, Ceb, Ana",
+			"image": "https://pbs.twimg.com/media/EC0NHNPVUAI7UC4?format=jpg&name=medium"
 		}
 	],
 	"theinternational": [
