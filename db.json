@@ -38,13 +38,15 @@
 			"id": 2,
 			"year": 2012,
 			"team": "Invictus Gaming",
-			"player": "Zhou, ChuaN, Faith, Ferrari_430, YYF"
+			"player": "Zhou, ChuaN, Faith, Ferrari_430, YYF",
+			"image": "https://cdn0.gamesports.net/storage/6000/6134.jpg"
 		},
 		{
 			"id": 3,
 			"year": 2013,
 			"team": "Alliance",
-			"player": "Loda, s4, AdmiralBulldog, Akke, EGM"
+			"player": "Loda, s4, AdmiralBulldog, Akke, EGM",
+			"image": "https://pbs.twimg.com/media/BRcLTqeCYAA4Uyb?format=jpg"
 		},
 		{
 			"id": 4,
