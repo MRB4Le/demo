@@ -26,8 +26,7 @@
 	"profile": {
 		"name": "typicode"
 	},
-	"tichampions": [
-        {
+	"tichampions": [{
 			"id": 1,
 			"year": 2011,
 			"team": "Natus Vincere",
@@ -81,7 +80,7 @@
 			"year": 2018,
 			"team": "OG",
 			"player": "n0tail, JerAx, Topson, Ceb, Ana",
-			"image": "https://pbs.twimg.com/media/Dlfof6sU0AAm3o2?format=jpg&name=medium",
+			"image": "https://pbs.twimg.com/media/Dlfof6sU0AAm3o2?format=jpg&name=medium"
 		},
 		{
 			"id": 9,
@@ -91,69 +90,68 @@
 			"image": "https://pbs.twimg.com/media/EC0NHNPVUAI7UC4?format=jpg&name=medium"
 		}
 	],
-	"theinternational": [
-        {
+	"theinternational": [{
 			"id": 1,
 			"tournaments": "The International 2011",
-            "prizepool": "$1,600,000",
+			"prizepool": "$1,600,000",
 			"date": "August 17–21, 2011",
 			"venue": "Koelnmesse, Cologne"
 		},
-        {
+		{
 			"id": 2,
 			"tournaments": "The International 2012",
-            "prizepool": "$1,600,000",
+			"prizepool": "$1,600,000",
 			"date": "August 31 – September 2, 2012",
 			"venue": "Benaroya Hall, Seattle"
 		},
-        {
+		{
 			"id": 3,
 			"tournaments": "The International 2013",
-            "prizepool": "$2,874,380",
+			"prizepool": "$2,874,380",
 			"date": "August 7–11 , 2013",
 			"venue": "Benaroya Hall, Seattle"
 		},
-        {
+		{
 			"id": 4,
 			"tournaments": "The International 2014",
-            "prizepool": "$10,923,977",
+			"prizepool": "$10,923,977",
 			"date": "July 18–21, 2014",
 			"venue": "KeyArena, Seattle"
 		},
-        {
+		{
 			"id": 5,
 			"tournaments": "The International 2015",
-            "prizepool": "$18,429,613",
+			"prizepool": "$18,429,613",
 			"date": "August 3–6, 2015",
 			"venue": "KeyArena, Seattle"
 		},
-        {
+		{
 			"id": 6,
 			"tournaments": "The International 2016",
-            "prizepool": "$20,770,460",
+			"prizepool": "$20,770,460",
 			"date": "August 3–13, 2016",
 			"venue": "KeyArena, Seattle"
 		},
-        {
+		{
 			"id": 7,
 			"tournaments": "The International 2017",
-            "prizepool": "$24,787,916",
+			"prizepool": "$24,787,916",
 			"date": "August 7–12, 2017",
 			"venue": "KeyArena, Seattle"
 		},
-        {
+		{
 			"id": 8,
 			"tournaments": "The International 2018",
-            "prizepool": "$25,532,177",
+			"prizepool": "$25,532,177",
 			"date": "August 20–25, 2018",
 			"venue": "Rogers Arena, Vancouver"
 		},
-        {
+		{
 			"id": 9,
 			"tournaments": "The International 2019",
-            "prizepool": "$34,330,068",
+			"prizepool": "$34,330,068",
 			"date": "August 20–25 , 2019",
 			"venue": "Mercedes-Benz Arena, Shanghai"
 		}
-    ]
+	]
 }
